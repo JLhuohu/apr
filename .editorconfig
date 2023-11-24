@@ -9,7 +9,7 @@ trim_trailing_whitespace = true
 indent_size = 2
 
 [*.json]
-ident_size = 2
+ident_size = 8
 
 [*.{c,h}]
 cpp_indent_within_parentheses = align_to_parenthesis
